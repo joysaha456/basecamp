@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/joysaha456/react-basecamp/static/js/runtime~main.ac0fa002.js"
   },
   {
-    "revision": "651771e1df95c807c99608188d0a4287",
-    "url": "/joysaha456/react-basecamp/static/media/notification.651771e1.woff"
-  },
-  {
     "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
     "url": "/joysaha456/react-basecamp/static/media/notification.c0d3c94c.eot"
+  },
+  {
+    "revision": "651771e1df95c807c99608188d0a4287",
+    "url": "/joysaha456/react-basecamp/static/media/notification.651771e1.woff"
   },
   {
     "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
