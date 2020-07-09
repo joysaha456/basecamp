@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/joysaha456/react-basecamp/static/media/notification.5bee74ca.svg"
   },
   {
-    "revision": "1f73c31fc5c9cbe5874f24c5b870b1de",
-    "url": "/joysaha456/react-basecamp/static/media/icon-plus-gray.1f73c31f.svg"
-  },
-  {
     "revision": "8a422611d0bd4451914900a50d4237d5",
     "url": "/joysaha456/react-basecamp/static/media/icon-minus-gray.8a422611.svg"
+  },
+  {
+    "revision": "1f73c31fc5c9cbe5874f24c5b870b1de",
+    "url": "/joysaha456/react-basecamp/static/media/icon-plus-gray.1f73c31f.svg"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
